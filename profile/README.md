@@ -19,7 +19,8 @@
 
 | | |
 |---|---|
-| **[Mafia Gun](https://theyvoice.com/games/mafia-gun)** | Mafia-themed real-time 1v1 card and building battles · Mafya temalı, gerçek zamanlı 1v1 kart ve bina savaşı. Android, iOS, web. [mafiagun.com](https://mafiagun.com) |
+| **[Mafia Gun](https://theyvoice.com/games/mafia-gun)** | Mafia-themed real-time 1v1 card and building battles · Mafya temalı, gerçek zamanlı 1v1 kart ve bina savaşı. Android, iOS, web. [mafiagun.com](https://mafiagun.com) · [GitHub](https://github.com/mafia-gun) |
+| **[Çay Ocağı](https://theyvoice.com/cay-ocagi)** | The neighbourhood coffeehouse table on your phone: 101 Okey with voice chat · Mahalle kahvesi masası telefonunda: sesli sohbetli 101 Okey. [theyvoice.com/cay-ocagi](https://theyvoice.com/cay-ocagi) · [GitHub](https://github.com/cay-ocagi) |
 
 ## Links · Bağlantılar
 
